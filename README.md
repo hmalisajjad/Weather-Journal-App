@@ -4,7 +4,9 @@
 Weather Journal App (Front End Developer Udacity Nanodegree)  Technology used: 
 
 1)HTML 
+
 2)CSS 
+
 3)JavaScript  
 
 Project Objective 
