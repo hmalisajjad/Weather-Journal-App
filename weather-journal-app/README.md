@@ -1,10 +1,23 @@
-# Weather-Journal App Project
+# Weather-Journal-App
+![weather app](https://user-images.githubusercontent.com/70126786/116807170-13527500-ab4b-11eb-8ffd-9f605d7202d3.png)
 
-## Overview
-This project requires you to create an asynchronous web app that uses Web API and user data to dynamically update the UI. 
+Weather Journal App (Front End Developer Udacity Nanodegree)  Technology used: 
 
-## Instructions
-This will require modifying the `server.js` file and the `website/app.js` file. You can see `index.html` for element references, and once you are finished with the project steps, you can use `style.css` to style your application to customized perfection.
+1)HTML 
 
-## Extras
-If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+2)CSS 
+
+3)JavaScript  
+
+Project Objective 
+
+In this project I have use Web APIs and asynchronous code, I have use OpenWeatherMap API to get weather based on user's location, and dynamically update UI.  Setup To get the project up and running 
+
+follow the steps below: 
+
+I have install node.js server for this project and follow each and every thing as trainer guide.  
+Development Strategy Setting up project environment, making sure Node and packages installed, and included in server.js file. 
+Added POST and GET routes to ensure correct retrieval of data from the server. 
+Acquired API credentials from OpenWeatherMap website. 
+Created async functions to fetch weather data and store it on my local server. 
+Set up a function that updated UI dynamically.
